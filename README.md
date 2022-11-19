@@ -13,7 +13,6 @@ pandas
 requests
 beautifulsoup4
 tqdm
-shutil
 ```
 
 # Usage
