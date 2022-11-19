@@ -1,2 +1,2 @@
-# tiktok_scraper
+# TikTok
 TikTok video URLs craper
