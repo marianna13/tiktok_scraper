@@ -28,7 +28,7 @@ scraper(
 ```
 
 With seed tags:
-```
+```python
 scraper(
     seed_tags=['worldcup', 'newyork'],
     num_pages_per_url=2,
